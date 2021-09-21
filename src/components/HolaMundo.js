@@ -3,7 +3,7 @@ import React from 'react';
 export default function HolaMundo(props) {
     return (
         <div>
-            <h4>Componente Hola mundo</h4>
+            <h4>Hola mundo compononent</h4>
         </div>
     );
 }
