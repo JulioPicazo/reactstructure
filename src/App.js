@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Julio Cesar Picazo Guevara
+          JulioSistems
         </a>
       </header>
     </div>
